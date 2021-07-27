@@ -1,0 +1,18 @@
+.powerby, ol, li, p, h1 {
+	color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.powerby{
+	text-align:right;
+}
+.bodykozep {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+  background: url('/img/bg.png');
+  background-position: center;
+  background-size:cover;
+  transition: background 3s;
+}
