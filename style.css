@@ -1,7 +1,12 @@
-.powerby, ol, li, p, h1, h2, h3, a {
+.powerby, ol, li, p {
 	color: white;
   text-shadow: 2px 2px 4px #000000;
 }
+h1, h2, h3, a{
+	color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
 .powerby{
 	text-align:right;
 }
