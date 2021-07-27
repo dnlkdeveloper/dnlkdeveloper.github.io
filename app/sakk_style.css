@@ -97,7 +97,7 @@
 .kocka .oldal.ot {
   transform-origin: left;
   transform: rotateY(-90deg) translate3d(-150px, 0px, 0px);
-    background: url('/img/5.png'), white;
+  background: url('/img/5.png'), white;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center 78%;
