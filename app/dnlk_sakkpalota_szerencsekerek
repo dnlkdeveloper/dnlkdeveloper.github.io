@@ -1,0 +1,36 @@
+<html lang="hu" >
+<head>
+  <meta charset="UTF-8">
+  <title>Sakkpalota szerencsekerék</title>
+    <script src="https://kit.fontawesome.com/36cf3f36b9.js" crossorigin="anonymous"></script><link rel="stylesheet" href="/app/kerek_style.css">
+    <script src="kerek_script.js"></script>
+</head>
+<body class="bodykozep">
+  <a href="/index.html">&laquo; Visszalépés</a>
+<h1>DNLK - Sakkpalota szerencsekerék v.1.3</h1>
+<p> Hogy működik? </p>
+
+<ol>
+<li>A pörgetéshez klikkelj ×1 a PÖRGETÉS gombra.</li>
+<li>Várd meg az eredményt.</li>
+<li>Újra pörgethetsz.</li>
+  </ol>
+
+  <div id="app">
+      <img class="marker" src="https://github.com/dnlkdeveloper/dnlkdeveloper.github.io/blob/main/img/marker.png?raw=true" />
+      <img class="wheel" src="https://github.com/dnlkdeveloper/dnlkdeveloper.github.io/blob/main/img/wheel2.png?raw=true" />
+      <img class="button" src="https://github.com/dnlkdeveloper/dnlkdeveloper.github.io/blob/main/img/button.png?raw=true" />
+    </div>
+
+    
+</div>
+
+<span class="powerby"> <strong>Powered by</strong> Diósgyőri Nagy Lajos Király Általános Iskola </span>
+<span class="powerby"> <strong>Copyright © 2022 suli21.hu</strong></span>
+
+<i class="fas fa-dice" onclick="forgatas()"></i>
+  <script  src="/app/sakk_script.js"></script> 
+</body>
+<footer>
+</footer>
+</html>
