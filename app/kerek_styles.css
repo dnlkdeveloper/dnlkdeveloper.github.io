@@ -3,6 +3,9 @@
   background-position: center;
   background-size:cover;
   transition: background 3s;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: hidden;
 }
 #app{
   width: 400px;
