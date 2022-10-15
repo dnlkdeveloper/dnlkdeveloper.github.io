@@ -1,4 +1,14 @@
-background: url('/img/bg.png');
+.bodykozep {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+  background: url('/img/bg.png');
+  background-position: center;
+  background-size:cover;
+  transition: background 3s;
+}
 #app{
   width: 400px;
   height: 400px;
